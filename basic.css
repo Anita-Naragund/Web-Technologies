@@ -1,0 +1,47 @@
+h1{
+    color:pink;
+    font-size:50px;
+    text-decoration:underline;
+    text-decoration-line: overline;
+    text-transform: capitalize;
+    text-transform: uppercase;
+    text-transform:initial;
+    text-align:center;
+    background-color:black;
+    
+}
+h2{
+    color:darkgray;
+    text-align: end ;
+}
+h1,h2{
+    color:deeppink;
+    font-size:50px;
+    text-decoration:underline;
+    text-decoration-line: overline;
+    text-transform: capitalize;
+    text-transform: uppercase;
+    text-transform:initial;
+    background-color:black;
+
+}
+.ban{
+    color:cornflowerblue;
+    text-decoration: underline;
+    font-size: 80px;
+}
+body{
+    background-color: lightcoral;
+}
+.box1{
+    border:2px solid red;
+    background color: #000;
+    margin-left:
+}
+.insta:active{
+    background-color: green;
+}
+
+.insta{
+    text-dec
+}
